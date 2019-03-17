@@ -1,24 +1,20 @@
-# README
+# Storm Chess
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Play chess against a weather-controlled AI. When local weather conditions are fair, the AI's playing style will match the weather report for that area. But when playing during a thunderstorm, your opponent's difficulty setting will increase dramatically and the AI will play much more aggressively. 
 
-Things you may want to cover:
+With Storm Chess, you can literally play chess with the weather.
 
-* Ruby version
+## Authored by
 
-* System dependencies
+Ryan McCool ~> [@redrighthand](https://github.com/r3drighthand)
 
-* Configuration
+## Dependencies
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* ruby ~> 2.5.1
+* rails ~> 5.2.2.1
+* puma ~> 0.18
+* puma ~> 3.11
+* slim ~> 4.0.1
+* sorcery ~> 0.13
+* rspec-rails
+* factory-bot-rails
