@@ -4,6 +4,8 @@ Play chess against a weather-controlled AI. When local weather conditions are fa
 
 With Storm Chess, you can literally play chess with the weather.
 
+[Powered by Dark Sky](https://darksky.net/poweredby/).
+
 ## Authored by
 
 Ryan McCool ~> [@redrighthand](https://github.com/r3drighthand)

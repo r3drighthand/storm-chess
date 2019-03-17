@@ -36,6 +36,8 @@ gem 'jbuilder', '~> 2.5'
 # Storm Chess
 gem 'slim'
 gem 'sorcery'
+gem 'darksky'
+gem 'rubocop', require: false 
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
